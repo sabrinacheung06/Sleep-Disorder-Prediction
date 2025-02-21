@@ -2,7 +2,7 @@
 ![alt text](https://www.mdanderson.org/images/publications/cancerwise/Generics/cw-sleep-graphic.jpg)
 
 ## Project Overview - Anna
-Analyze various variables like age, BMI and activity level to predict the type of sleep disorder, Insomnia, Sleep Apnea or None.
+This main objective of this machine learning project aims to analyze a range of lifestyle and medical factors—including age, BMI, physical activity, sleep duration, and blood pressure—to predict the likelihood and type of sleep disorders an individual may develop. Conditions such as insomnia and sleep apnea can severely impact overall health and well-being. By identifying those at risk, this study seeks to facilitate early intervention and personalized treatment strategies, ultimately enhancing sleep quality and promoting long-term health.
 
 ## Data Set Description
 
