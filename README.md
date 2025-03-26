@@ -7,7 +7,11 @@ This main objective of this machine learning project aims to analyze a range of 
 ## Data Set Description
 
 ## Patterns found in exploratory data analysis
+We analyzed medical factors such as age, BMI, physical activity, sleep duration, and blood pressure to predict the likelihood and type of sleep disorders an individual may develop. To understand how each factor influences sleep disorders, we visualized distributions and relationships using various plots.
 
+**Observed Patterns**
+- More females were diagnosed with a sleep disorder compared to males. The number of women with sleep apnea is higher than those with insomnia. Meanwhile, although men were observed to have a lower likelihood of developing sleep disorders, those who do are more likely to have insomnia than sleep apnea.
+-  
 ## Heat Map Explanation
 
 
