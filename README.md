@@ -11,7 +11,39 @@ We analyzed medical factors such as age, BMI, physical activity, sleep duration,
 
 **Observed Patterns**
 - More females were diagnosed with a sleep disorder compared to males. The number of women with sleep apnea is higher than those with insomnia. Meanwhile, although men were observed to have a lower likelihood of developing sleep disorders, those who do are more likely to have insomnia than sleep apnea.
--  
+-  Individuals with higher BMI had a greater likelihood of developing sleep apnea.
+
+**Handling Missing Values**
+- The dataset contained one column with missing values: "Sleep Disorder" (219 missing values).
+- These missing values indicate individuals with no diagnosed sleep disorde, so we replaced them with "None" to make the data consistent.
+
+**Unique Value Analysis**
+To understand the data better we checked all data for individual sub-categories.
+- Gender: 2 categories (Male, Female)
+- Age: 31 unique values (used histogram for better visualisation of ranges)
+- Occupation: 11 different job roles
+- BMI Category: 3 categories (Normal, Overweight, Obese)
+- Sleep Disorder Types: 3 categories (None, Sleep Apnea, Insomnia)
+
+**Data Cleaning and simplification**
+- We divided the Blood Pressure category into two separate categories of Diastolic and Systolic BP's.
+- Changed "Normal weight" to "Normal" for consistency.
+
+**Distribution of Categorical Variables**
+- Gender: Males(189), Females(185)
+- Occupation:Nurse(73), Doctor(71), Engineer(63), Lawyer(47), Teacher(40), Accountant(37), Salesperson(32), Software Engineer(4), Scientist(4), Sales Representative(2), Manager(1)
+  Most Common: Nurse(73), Doctor(71), Engineer(63)
+  Least Common: Sales Representative(2), Manager(1)
+- BMI: Normal(216), Overweight(148), Obese(10)
+- Blood Pressore: Diastolic and Systolic Ranges 
+
+**Key Observations**
+- The dataset is balanced in terms of gender (Male: 189, Female: 185).
+- Nurses and doctors make up a significant portion of the dataset.
+- Most individuals fall into the "Normal" or "Overweight" BMI categories, with only 10 classified as Obese.
+- Sleep disorders are nearly evenly distributed between Sleep Apnea and Insomnia, while a majority of individuals (219) have no diagnosed disorder.
+
+
 ## Heat Map Explanation
 
 
