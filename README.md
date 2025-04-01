@@ -6,7 +6,7 @@ This main objective of this machine learning project aims to analyze a range of 
 
 ## Data Set Description
 
-## Patterns found in exploratory data analysis
+## Patterns found in exploratory data analysis - Navya 
 We analyzed medical factors such as age, BMI, physical activity, sleep duration, and blood pressure to predict the likelihood and type of sleep disorders an individual may develop. To understand how each factor influences sleep disorders, we visualized distributions and relationships using various plots.
 
 **Observed Patterns**
