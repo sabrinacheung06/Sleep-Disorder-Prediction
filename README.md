@@ -4,7 +4,22 @@
 ## Project Overview - Anna
 This main objective of this machine learning project aims to analyze a range of lifestyle and medical factors—including age, BMI, physical activity, sleep duration, and blood pressure—to predict the likelihood and type of sleep disorders an individual may develop. Conditions such as insomnia and sleep apnea can severely impact overall health and well-being. By identifying those at risk, this study seeks to facilitate early intervention and personalized treatment strategies, ultimately enhancing sleep quality and promoting long-term health.
 
-## Data Set Description
+## Data Set Description - Kaitlyn
+The “Sleep, Health, and Lifestyle” dataset is composed of a list of individuals, sorted by age. In total, the dataset contains information on 374 individuals and their corresponding 12 variables making up 375 rows and 12 columns with labeling. The variables cover a broad number of aspects related to sleep health such as sleep data, lifestyle factors, cardiovascular health, and sleep disorders. The variables include:
+
+- Gender, which is sorted into two categories: “Male” and “Female”. 
+- Age, in years, spanning all ages from  “27” to “59, with the exception of “46” and “47”. 
+- Occupation, which is composed of eleven jobs that include“Doctor”, “Nurse”, “Lawyer”, “Accountant”, “Engineer”, “Software Engineer”, “Sales Representative”, “Salesperson”, “Manager”, and “Teacher”. 
+- Sleep duration, in hours up to the tenths, from “5.8” to “8.5” hours. 
+- Quality of sleep, based on a subjective rating from 1-10, with the lowest rating at “4” and the highest at “9”. 
+- Physical activity level, from low to high, spanning “30” to “90”. 
+- Stress level, based on a subjective rating from 1-10, ranging from “3” to “8”. 
+- BMI category sorted into “Normal”, “Normal Weight”, “Overweight”, and “Obese”.
+- Blood pressure in mmHg or millimeters of mercury. 
+- Heart rate in beats per minute, with the lowest at “65” and the highest at “86”. 
+- Daily steps, ranging from “3000” to “10000”
+- Sleep disorder, separated into the three categories of “Insomnia”, “Sleep Apnea”, or “None”. 
+
 
 ## Patterns found in exploratory data analysis - Navya 
 We analyzed medical factors such as age, BMI, physical activity, sleep duration, and blood pressure to predict the likelihood and type of sleep disorders an individual may develop. To understand how each factor influences sleep disorders, we visualized distributions and relationships using various plots.
