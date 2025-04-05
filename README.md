@@ -61,10 +61,11 @@ To understand the data better we checked all data for individual sub-categories.
 
 ## Heat Map Explanation
 
+A heat map is a data visualization tool that uses color to represent the magnitude of the values in a dataset. This tool makes it easier to see relationships. It is a grid that has colored cells based on its value -- the warmer the color, the greater the value. We used our heatmap to generate correlation matrices which helped us determine which variables were more helpful in predicting the risk of osteoporosis.
 
 ## **📊 Model Training and Evaluation**
 
-We trained and evaluated multiple models to determine the **best classification model** for our dataset. Based on **accuracy, precision, recall, and F1-score**, focusing on **misclassification trends** to identify areas for improvement.
+We trained and evaluated multiple models to determine the **best classification model** for our dataset. Based on **accuracy, precision, recall, and F1-score**, focusing on **misclassification trends** to identify areas for improvement.  
 
 Each model is assessed using the following parameters:
 - **Precision**: How many of the predicted instances were actually correct?
